@@ -1,0 +1,315 @@
+@media(max-width:992px)
+{
+    .container
+    {
+        width: 90%;
+    }
+
+    #nav ul 
+    {
+        display: none;
+    }
+
+    
+
+    #nav .signup
+    {
+        display: none;
+    }
+
+    #nav .bar-icon
+    {
+
+        display: block;
+    
+    }
+
+    /*-------- banner section ----------*/
+    
+    #banner .txt-box
+    {
+        width: 100%;
+        
+    }
+
+    #banner img
+    {
+        margin-top: 50px;
+    }
+    #banner .txt-box h4
+    {
+        font-size: 50px;
+        
+    }
+
+    #banner .img
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    #banner .img img 
+    {
+        width: 100%;
+    }
+
+
+/*-------- banner section end---------- */
+
+/*-------- clients section start---------- */
+#clients
+{
+    margin-bottom: 20px;
+}
+
+
+
+#clients .container .row img
+{
+    padding-right: 25px ;
+    /* padding-bottom: 40px; */
+}
+
+/*-------- clients section end---------- */
+
+/*-------- community section start ----------*/
+#community .txt-box h4
+{
+    width: 100%;
+    font-size: 32px;
+}
+
+#community .row .cards
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+/*-------- community section end ----------*/
+
+/*-------- pixelgrade section----------*/
+#pixelgrade
+{
+    text-align: center;
+}
+
+#pixelgrade .txt-box
+{
+    width: 100%;
+}
+
+#pixelgrade .img 
+{
+    width: 100%;
+}
+
+#pixelgrade .txt-box h4
+{
+    text-align: center;
+}
+
+
+/*-------- pixelgrade section end ----------*/
+
+
+/*-------- reinvent section start ----------*/
+#reinvent .txt-box
+{
+    width: 100%;
+    margin: 40px 0 10px;
+}
+
+#reinvent .statistics 
+{
+    width: 100%;
+    
+}
+
+#reinvent .statistics .members-box, #reinvent .statistics .clubs-box
+{
+    width: 100%;
+    margin-right: 50px;
+  
+}
+
+#reinvent .statistics .members-box
+{
+    margin-bottom: 20px;
+}
+
+#reinvent .statistics .img 
+{
+    width: 40%;
+    text-align: center;
+}
+
+
+#reinvent .statistics .txt
+{
+    width: 50%;
+    
+}
+
+#reinvent .statistics .first-row .clubs-box .txt
+{
+    margin-right: 0px ;
+}
+
+#reinvent .statistics .second-row .members-box .txt
+{
+    margin-right: 0px ;
+}
+
+
+
+/* 
+#reinvent .statistics .txt 
+{
+    margin-right: 90px;
+}
+
+#reinvent .statistics .img 
+{
+    margin-left: 40px;
+}
+
+#reinvent .statistics .first-row .clubs-box .txt
+{
+    margin-right: 130px ;
+}
+
+#reinvent .statistics .second-row .members-box .txt
+{
+    margin-right: 100px ;
+} */
+
+#reinvent .statistics .second-row
+{
+    margin-top: 20px;
+}
+
+#reinvent .statistics
+{
+    margin: 32px 0;
+}
+
+/*-------- reinvent section end   ----------*/
+
+/*-------- design section start ----------*/
+
+#design .container .txt-box
+{
+    width: 100%;
+    text-align: center;
+}
+
+#design .txt-box h4
+{
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#design .txt-box p
+{
+    text-align: justify;
+}
+
+#design .container .img
+{
+    width: 100%;
+}
+
+/*-------- design section end ----------*/
+
+/*-------- quote section start ----------*/
+
+#quote .container .img 
+{
+    width: 100%;
+    padding: 30px 0 5px;
+}
+
+#quote .container .txt-box
+{
+    width: 100%;
+    padding: 10px 0;
+}
+
+#quote .container .txt-box p
+{
+   text-align: justify;   
+}
+
+#quote .container .txt-box .row2 a
+{
+    margin: 32px 0;
+}
+
+
+/*-------- quote section end ----------*/
+
+/*-------- caring section ----------*/
+#caring .container .txt-box p
+{
+    width: 100%;
+    text-align: justify;
+}
+
+#caring .txt-box h4
+{
+    width: 100%;
+}
+
+#caring .row2 .cards
+{
+    width: 100%;
+    margin-bottom: 120px ;
+}
+
+#caring .row2
+{
+    margin-bottom: 30px;
+}
+
+/*-------- caring section ----------*/
+
+
+
+/*-------- pre-footer section ----------*/
+#pre-footer .txt-box h4
+{
+    width: 100%;
+    font-size: 40px;
+}
+
+
+
+
+}
+
+@media(max-width:1200px)
+{
+    .container
+    {
+        width: 90%;
+        padding: 0 10px;
+    }
+
+    #nav .img
+    {
+        width: 20%;
+    }
+
+    #nav ul 
+    {
+
+        width: 50%;
+    }
+
+    #nav ul li a
+    {
+        padding: 0 5px;
+    }
+}
