@@ -929,3 +929,156 @@ margin-bottom: 32px;
 
 
 /*-------- pre-footer section ----------*/
+
+/*-------- footer section start ----------*/
+#footer
+{
+    background: var(--brand-secondary);
+}
+
+/* 
+#footer .container .row2
+{
+    align-items: center;
+} */
+
+#footer .container .copyright 
+{
+    padding: 64px 0 74.33px 0;
+    width: 30%;
+}
+
+#footer .container .copyright p 
+{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 14px;
+line-height: 143%;
+color: var(--neutral-silver);
+margin-top: 40px ;
+
+}
+
+#footer .container .copyright .reserved 
+{
+    margin-top: 8px;
+    margin-bottom: 40px;
+}
+
+#footer .container .copyright .row2
+{
+    width: 60%;
+}
+
+#footer .container .copyright .row2 a
+{
+    color: var(--neutral-white);
+}
+
+#footer .container .copyright .row2 a:hover 
+{
+    color: var(--brand-info);
+}
+
+#footer .container .row2 .list1
+{
+    width: 10%;
+    padding-top: 64px ;
+    padding-bottom: 64px;
+}
+
+#footer .container .row2 .support
+{
+    width: 10%;
+    padding-top: 64px ;
+    padding-bottom: 64px;
+}
+
+#footer .container .row2 .list1 h4 
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--neutral-white);
+}
+
+#footer .container .row2 .list1 ul
+{
+    margin-top: 24px;
+}
+
+#footer .container .row2 .list1 ul li a 
+{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 14px;
+line-height: 143%;
+color: var(--neutral-silver);
+
+}
+
+#footer .container .row2 .list1 ul li a:hover
+{
+    color: var(--brand-primary);
+}
+
+#footer .container .row2 .list1 ul li
+{
+    margin-bottom: 12px;
+}
+
+#footer .container .row2 .uptodate 
+{
+    width: 30%;
+    margin: 64px 0 172px 0;
+}
+
+#footer .container .row2 .uptodate label
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--neutral-white);
+    
+}
+
+#footer .container .row2 .uptodate input 
+{
+    margin-top: 24px;
+    border-radius: 8px;
+    background: rgb(81,91,96);
+    /* opacity: 0.3; */
+    width: 255px;
+    height: 40px;
+    /* color: var(--brand-secondary); */
+    position: relative;
+    display: inline-block;
+    border: 0;
+}
+
+#footer .container .row2 .uptodate input::placeholder 
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: #a5a6a9;
+}
+
+#footer .container .row2 .uptodate a 
+{
+    position: absolute;
+    color: var(--neutral-white);
+    margin-top: 32px;
+    margin-left: 14.5%;
+    display: inline-block;
+}
+
+
+
+
+
+
+/*-------- footer section end ----------*/

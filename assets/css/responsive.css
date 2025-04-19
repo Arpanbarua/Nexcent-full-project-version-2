@@ -284,6 +284,51 @@
     font-size: 40px;
 }
 
+/*--------  footer section start ----------*/
+#footer .container .copyright 
+{
+    width: 100%;
+    padding: 64px 0 32px 0;
+}
+
+#footer .container .copyright .row2
+{
+    width: 100%;
+}
+
+#footer .container .row2 .list1
+{
+    width: 50%;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin: auto;
+    
+}
+
+#footer .container .row2 .support
+{
+    width: 50%;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin: auto;
+    
+}
+
+
+#footer .container .row2 .uptodate 
+{
+    width: 100%;
+    margin: 32px 0 32px 0;
+}
+
+#footer .container .row2 .uptodate a 
+{
+    margin-left: 55%;
+    
+}
+
+
+/*--------  footer section end ----------*/
 
 
 
